@@ -17,6 +17,6 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 # Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+|     Certification     |               Completed?               |     Credential ID/Link       |
+| --------------------  | -------------------------------------- | -----------------------------| 
+| CompTIA Security+     |                xx/xx/xx                |     T3FKHFTR1F41QP51/ <a href="(https://www.certmetrics.com/comptia/public/verification.aspx/)>CompTIA Verify</a>        | 
