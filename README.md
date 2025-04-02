@@ -2,14 +2,14 @@
 
 # Portfolio
 
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my skills in **Vulnerability Management, Incident Response, and Access Management**, allowing me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com](https://github.com/iMentorYT/SIEM/tree/main)">SIEM</a>   |
-| Building a Pi-VPN | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
