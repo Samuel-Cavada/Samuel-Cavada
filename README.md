@@ -19,4 +19,6 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Credential ID/Link       |
 | --------------------  | -------------------------------------- | -----------------------------| 
-| CompTIA Security+     |                xx/xx/xx                |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>       | 
+| CompTIA Security+     |                10/13/2023              |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>       | 
+| Technical Support Fundamentals | 05/01/2021 |     GFRADUV4JFZW/ <a href="https://www.coursera.org/account/accomplishments/certificate/GFRADUV4JFZW">Coursera Verify</a>       |
+| Cyber Defense Operations | 11/27/2023 | 88009194 / <a href="https://usaf.digitalbadges.skillsoft.com/ccad30f7-7341-4867-85eb-05afa5aa0bad"> DOD E-Learn Verify</a> |
