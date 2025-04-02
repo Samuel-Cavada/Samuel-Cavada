@@ -19,4 +19,4 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Credential ID/Link       |
 | --------------------  | -------------------------------------- | -----------------------------| 
-| CompTIA Security+     |                xx/xx/xx                |     T3FKHFTR1F41QP51/ <a href="(https://www.certmetrics.com/comptia/public/verification.aspx/)>CompTIA Verify</a>        | 
+| CompTIA Security+     |                xx/xx/xx                |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>        | 
