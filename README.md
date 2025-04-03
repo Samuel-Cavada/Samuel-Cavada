@@ -10,7 +10,7 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com](https://github.com/iMentorYT/SIEM/tree/main)">SIEM</a>   |
 | Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
+|       VM Creation In Azure          |         Network Security Group                              |                 |                 |
 |                 |                                       |                 |                 |
 
 
