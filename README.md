@@ -52,14 +52,39 @@ List our your certifications and/or link to them. Also include the ones you plan
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br/>
 
-#### Cloud Security  
-#### Data Loss Prevention (DLP)  
-#### Endpoint Security  
-#### Identity & Access Management (IAM)  
-#### Network Security  
-#### Security Information & Event Management (SIEM)  
-#### Threat Intelligence  
-#### Vulnerability Management 
+### Cloud Security
+- Azure Intune
+- Global Protect
+
+### Data Loss Prevention (DLP)
+- BitLocker
+
+### Endpoint Security
+- Microsoft Defender
+- Elastic SentinelOne
+
+### Identity & Access Management (IAM)
+- Active Directory
+- EntraID
+- SailPoint
+- Privileged Identity Management
+- SailPoint IdentityNow
+
+### Network Security
+- Active Directory
+- Cisco Unity Connection Administration Console
+- Cisco ISE
+- WireGuard
+
+### Security Information & Event Management (SIEM)
+- Elastic SentinelOne
+
+### Threat Intelligence
+- Elastic SentinelOne
+
+### Vulnerability Management
+- Tenable
+- Tanium ACAS
 
 ## Programming Languages
 
