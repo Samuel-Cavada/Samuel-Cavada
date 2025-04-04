@@ -118,7 +118,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ### Associate of Applied Science in Information Systems Technology
 **Community College of The Air Force**  
-*Expected Graduation: Fall 2025*  
+*Expected Graduation: Summer 2025*  
 - Relevant Coursework: Network Fundamentals, Routing & Switching, Cyber Defense Operations
 
 
