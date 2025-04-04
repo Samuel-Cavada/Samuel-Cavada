@@ -14,7 +14,7 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 ## Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification     |               Completed?               |     Credential ID/Link       |
+|     Certification     |               Completed               |     Credential ID/Link       |
 | --------------------  | -------------------------------------- | -----------------------------| 
 | CompTIA Security+     |                10/13/2023              |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>       | 
 | Technical Support Fundamentals | 05/01/2021 |     GFRADUV4JFZW/ <a href="https://www.coursera.org/account/accomplishments/certificate/GFRADUV4JFZW">Coursera Verify</a>       |
