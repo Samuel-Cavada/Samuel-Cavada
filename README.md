@@ -42,14 +42,14 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br/>
 
-##### Cloud Security  
-##### Data Loss Prevention (DLP)  
-##### Endpoint Security  
-##### Identity & Access Management (IAM)  
-##### Network Security  
-##### Security Information & Event Management (SIEM)  
-##### Threat Intelligence  
-##### Vulnerability Management 
+#### Cloud Security  
+#### Data Loss Prevention (DLP)  
+#### Endpoint Security  
+#### Identity & Access Management (IAM)  
+#### Network Security  
+#### Security Information & Event Management (SIEM)  
+#### Threat Intelligence  
+#### Vulnerability Management 
 
 #
 
