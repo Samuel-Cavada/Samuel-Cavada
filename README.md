@@ -107,5 +107,18 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |       VM Creation In Azure          |         Network Security Group                              |                 |                 |
 |                 |                                       |                 |                 |
+<br />
+
+## Education
+### Associate of Arts in Pre-CyberSecurity  
+**Grand Rapids Community College**  
+*Graduated: 2025*  
+- Relevant Coursework: Cybersecurity Basics, Information Systems, Networking Principles  
+- GPA: 3.8  
+
+### Associate of Applied Science in Information Systems Technology
+**Community College of The Air Force**  
+*Expected Graduation: Fall 2025*  
+- Relevant Coursework: Network Fundamentals, Routing & Switching, Cyber Defense Operations
 
 
