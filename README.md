@@ -61,7 +61,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 #### Threat Intelligence  
 #### Vulnerability Management 
 
-## Programing Languages
+## Programming Languages
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
