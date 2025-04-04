@@ -128,10 +128,12 @@ List our your certifications and/or link to them. Also include the ones you plan
 ## Projects
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com](https://github.com/iMentorYT/SIEM/tree/main)">SIEM</a>   |
-| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|       VM Creation In Azure          |         Network Security Group                              |                 |                 |
-|                 |                                       |                 |                 |
+| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Building a SIEM | Log management, Security Architecture | LogRhythm, Azure|  <a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Phishing Forensics | Phishing Analysis, Incident Response | Various Forensic Tools | |
+| Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic SentinelOne, Microsoft Defender | |
+| VM Creation In Azure | Network Security Group | | |
+| Vulnerability Scan with Tenable | Vulnerability Management | Tenable | |
 <br />
 
 ## Education
