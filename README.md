@@ -4,12 +4,21 @@
 
 Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my skills in **Vulnerability Management, Incident Response, and Access Management**, allowing me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
-## Programing Languages
+# Table of Contents
+1. [Certifications](#certifications)
+2. [Security Tools](#security-tools)
+3. [Programming Languages](#programming-languages)
+4. [Projects](#projects)
+5. [Education](#education)
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Python" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<br />
+## Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Credential ID/Link       |
+| --------------------  | -------------------------------------- | -----------------------------| 
+| CompTIA Security+     |                10/13/2023              |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>       | 
+| Technical Support Fundamentals | 05/01/2021 |     GFRADUV4JFZW/ <a href="https://www.coursera.org/account/accomplishments/certificate/GFRADUV4JFZW">Coursera Verify</a>       |
+| Cyber Defense Operations | 11/27/2023 | 88009194 / <a href="https://usaf.digitalbadges.skillsoft.com/ccad30f7-7341-4867-85eb-05afa5aa0bad"> DOD E-Learn Verify</a> |
 
 <!--### Network Tools
 
@@ -32,6 +41,7 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 
 # 
 -->
+
 ## Security Tools
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -51,8 +61,12 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 #### Threat Intelligence  
 #### Vulnerability Management 
 
-#
+## Programing Languages
 
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<br />
 <!--#### Identity Management Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -85,7 +99,8 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 <br />
 -->
 
-# Project Overview 
+
+## Projects
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com](https://github.com/iMentorYT/SIEM/tree/main)">SIEM</a>   |
@@ -94,11 +109,3 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 |                 |                                       |                 |                 |
 
 
-# Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
-
-|     Certification     |               Completed?               |     Credential ID/Link       |
-| --------------------  | -------------------------------------- | -----------------------------| 
-| CompTIA Security+     |                10/13/2023              |     T3FKHFTR1F41QP51/ <a href="https://comptia.certchecker.org/">CompTIA Verify</a>       | 
-| Technical Support Fundamentals | 05/01/2021 |     GFRADUV4JFZW/ <a href="https://www.coursera.org/account/accomplishments/certificate/GFRADUV4JFZW">Coursera Verify</a>       |
-| Cyber Defense Operations | 11/27/2023 | 88009194 / <a href="https://usaf.digitalbadges.skillsoft.com/ccad30f7-7341-4867-85eb-05afa5aa0bad"> DOD E-Learn Verify</a> |
