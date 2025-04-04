@@ -139,7 +139,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 ## Education
 ### Associate of Arts in Pre-CyberSecurity  
 **Grand Rapids Community College**  
-*Graduated: 2025*  
+*Graduated: May 2025*  
 - Relevant Coursework: Cybersecurity Basics, Information Systems, Networking Principles  
 - GPA: 3.8  
 
