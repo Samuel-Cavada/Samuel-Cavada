@@ -52,63 +52,67 @@ List our your certifications and/or link to them. Also include the ones you plan
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br/>
 
+#
 ### 🛠️ Tools
 Here’s a look at the tools I’ve worked with and have experience using.
 
 #### Cloud Security
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra%20-%2366DEFF">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Intune%20-%230089BD">
+    <img alt="Static Badge" src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra%20-%2366DEFF">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Intune%20-%230089BD">
 </div>
 
 #### Data Loss Prevention (DLP)
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/BitLocker%20-%230078D4">
+    <img alt="Static Badge" src="https://img.shields.io/badge/BitLocker%20-%230078D4">
 </div>
 
 #### Endpoint Security
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Sentinel%20One%20-%236B0AEA">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Tanium%20-%23CC0313">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Sentinel%20One%20-%236B0AEA">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tanium%20-%23CC0313">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20DHCP%20-%23E6AE42">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SCCM%20-%2345559A">
 </div>
 
 #### Identity & Access Management (IAM)
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Active%20Directory%20-%23E6E3C2">
-    <img alt="Static Badge" src="https://img.shields.io-badge/(Microsoft)%20Privileged%20Identity%20Manager%20-%23B8D432">
-    <img alt="Static Badge" src="https://img.shields.io-badge/SailPoint%20-%23012169">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Active%20Directory%20-%23E6E3C2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/(Microsoft)%20Privileged%20Identity%20Manager%20-%23B8D432">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SailPoint%20-%23012169">
 </div>
 
 #### Network Security
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Cisco%20ISE%20-%2301BEEB">
-    <img alt="Static Badge" src="https://img.shields.io-badge/IP%20Address%20Manager%20-%232C353C">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Palo%20Alto%20-%23F04E23">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Cisco%20ISE%20-%2301BEEB">
+    <img alt="Static Badge" src="https://img.shields.io/badge/IP%20Address%20Manager%20-%232C353C">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Palo%20Alto%20-%23F04E23">
 </div>
 
 #### Operating Systems (OS)
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Microsoft%20DHCP%20-%23E6AE42">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Microsoft%20SCCM%20-%2345559A">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20DHCP%20-%23E6AE42">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SCCM%20-%2345559A">
 </div>
 
 #### Security Information and Event Management (SIEM)
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Elastic%20SIEM%20-%23F2CF33">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Microsoft%20Sentinel%20SIEM%20-%23C3F1FF">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Elastic%20SIEM%20-%23F2CF33">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Sentinel%20SIEM%20-%23C3F1FF">
 </div>
 
 #### Vulnerability Management
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Tenable%20Nessus%20-%23259194">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tenable%20Nessus%20-%23259194">
 </div>
 
 #### Other Tools
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Microsoft%20365%20Admin%20-%23118FDC">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Oracle%20-%23254A6E">
-    <img alt="Static Badge" src="https://img.shields.io-badge/Papercut%20-%2327AA28">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20365%20Admin%20-%23118FDC">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Oracle%20-%23254A6E">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Papercut%20-%2327AA28">
 </div>
+
 
 
 ## Programming Languages
