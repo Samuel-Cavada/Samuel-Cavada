@@ -178,3 +178,27 @@ Here’s a look at the tools I’ve worked with and have experience using.
 - Relevant Coursework: Network Fundamentals, Routing & Switching, Cyber Defense Operations
 
 
+## Soft Skills
+
+#### Communication
+
+#### Problem-Solving
+
+#### Analytical Thinking
+
+#### Leadership
+
+#### Strategic Thinking
+
+#### Attention to Detail
+
+#### Adaptability
+
+#### Time Management
+
+#### Customer Service
+
+#### Collaboration
+
+
+
