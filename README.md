@@ -180,25 +180,7 @@ Here’s a look at the tools I’ve worked with and have experience using.
 
 ## Soft Skills
 
-#### Communication
-
-#### Problem-Solving
-
-#### Analytical Thinking
-
-#### Leadership
-
-#### Strategic Thinking
-
-#### Attention to Detail
-
-#### Adaptability
-
-#### Time Management
-
-#### Customer Service
-
-#### Collaboration
+#### Adaptability, Analytical Thinking, Attention to Detail, Collaboration, Communication, Customer Service, Leadership, Problem-Solving, Strategic Thinking, Time Management
 
 
 
