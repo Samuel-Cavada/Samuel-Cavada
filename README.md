@@ -161,7 +161,7 @@ Here’s a look at the tools I’ve worked with and have experience using.
 | Building a SIEM | Log management, Security Architecture | LogRhythm, Azure|  <a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Phishing Forensics | Phishing Analysis, Incident Response | Various Forensic Tools | |
 | Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic SentinelOne, Microsoft Defender | |
-| VM Creation In Azure | Network Security Group | |  <a href="[https://github.com/iMentorYT/SIEM/tree/main](https://github.com/Samuel-Cavada/Azure-VM-Build)">Azure VM Build</a> |
+| VM Creation In Azure | Network Security Group | |  <a href="(https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a> |
 | Vulnerability Scan with Tenable | Vulnerability Management | Tenable | |
 <br />
 
