@@ -231,28 +231,35 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ## Education
 
+
 <img src="https://img.shields.io/badge/Associate's%20Degree(s)-CD7F32?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Associate's Degree" />
 
-### Associate of Applied Science in Avionics Systems Technology
+
+### :white_check_mark: Associate of Applied Science in Avionics Systems Technology
 **Community College of The Air Force**  
 *Graduated: April 2025*
  
 **Relevant Coursework:** 
 - Computer Fundamentals
 
-### Associate of Arts in Pre-CyberSecurity  
+### :white_check_mark: Associate of Arts in Pre-CyberSecurity  
 **Grand Rapids Community College**  
 *Graduated: May 2025*  
 - Relevant Coursework: Cybersecurity Basics, Information Systems, Networking Principles  
 - GPA: 3.8  
 
-### Associate of Applied Science in Information Systems Technology
+### :hourglass_flowing_sand: Associate of Applied Science in Information Systems Technology
 **Community College of The Air Force**  
 *Expected Graduation: Summer 2025*  
 - Relevant Coursework: Network Fundamentals, Routing & Switching, Cyber Defense Operations
 
+---
 
 <img src="https://img.shields.io/badge/Accelerated%20Program-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=silver" alt="Accelerated Program" />
+
+### :rocket: Accelerated Information Technology Bachelor's and Master's Degree in IT
+**Western Governors University**  
+*Expected Graduation: Summer 2027*
 
 ## Soft Skills
 
