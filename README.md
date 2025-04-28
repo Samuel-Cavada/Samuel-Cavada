@@ -238,9 +238,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 ### :white_check_mark: Associate of Applied Science in Avionics Systems Technology
 **Community College of The Air Force**  
 *Graduated: April 2025*
- 
-**Relevant Coursework:** 
-- Computer Fundamentals
+- Relevant Coursework: Computer Fundamentals
 
 ### :white_check_mark: Associate of Arts in Pre-CyberSecurity  
 **Grand Rapids Community College**  
