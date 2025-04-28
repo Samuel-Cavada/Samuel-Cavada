@@ -160,7 +160,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic SentinelOne, Microsoft Defender | |
 | VM Creation In Azure | Network Security Group | |  <a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a> |
 | Vulnerability Scan with Tenable | Vulnerability Management | Tenable | |
-| Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management | Tenable | |
+| Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management | Tenable | <a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning: Authenticated vs. Unauthenticated</a> ||
 <br />
 
 ## Education
