@@ -231,7 +231,14 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ## Education
 
-<img src="https://img.shields.io/badge/Associate's%20Degree-CD7F32?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Associate's Degree" />
+<img src="https://img.shields.io/badge/Associate's%20Degree(s)-CD7F32?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Associate's Degree" />
+
+### Associate of Applied Science in Avionics Systems Technology
+**Community College of The Air Force**  
+*Graduated: April 2025*
+ 
+**Relevant Coursework:** 
+- Computer Fundamentals
 
 ### Associate of Arts in Pre-CyberSecurity  
 **Grand Rapids Community College**  
@@ -244,6 +251,8 @@ List our your certifications and/or link to them. Also include the ones you plan
 *Expected Graduation: Summer 2025*  
 - Relevant Coursework: Network Fundamentals, Routing & Switching, Cyber Defense Operations
 
+
+<img src="https://img.shields.io/badge/Accelerated%20Program-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=silver" alt="Accelerated Program" />
 
 ## Soft Skills
 
