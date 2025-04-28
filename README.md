@@ -1,3 +1,19 @@
+<!--###
+Light Blue: #A8DADC
+Blue: #457B9D
+Off-White: #F1FAEE
+Red: #E63946
+Dark Blue: #1D3557
+Orange: #F4A261
+Teal: #2A9D8F
+Purple: #6A0DAD
+Green: #4CAF50
+Yellow: #FFEB3B
+Bronze: #CD7F32
+Silver: #C0C0C0
+Gold: #FFD700
+-->
+
 # 🏄‍♂️ Samuel Cavada's Portfolio
 
 **`Digital Guardian (IT Specialist/Cybersecurity Professional/Tech Enthusiast)`**
