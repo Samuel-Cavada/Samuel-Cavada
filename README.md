@@ -162,7 +162,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ## Projects
 
-<img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+<img src="https://img.shields.io/badge/Cybersecurity Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
 
 | Category | Project | Skills | Tools | Link |
 | --- | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
-<img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+<img src="https://img.shields.io/badge/GRC (Governance, Risk, and Compliance) Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
 
 | Category | Project | Skills | Tools | Link |
 | --- | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
-<img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+<img src="https://img.shields.io/badge/System Administration Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
 
 | Category | Project | Skills | Tools | Link |
 | --- | --- | --- | --- | --- |
@@ -201,7 +201,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
-<img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+<img src="https://img.shields.io/badge/IT (Information Technology) Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
 
 | Category | Project | Skills | Tools | Link |
 | --- | --- | --- | --- | --- |
@@ -214,7 +214,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
-<img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+<img src="https://img.shields.io/badge/Cloud Computing Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
 
 | Category | Project | Skills | Tools | Link |
 | --- | --- | --- | --- | --- |
