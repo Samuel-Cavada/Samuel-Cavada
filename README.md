@@ -152,15 +152,16 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 
 ## Projects
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration.   | WireGuard, PI Imager, SSH, and WinSCP. |  <a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-| Building a SIEM | Log management, Security Architecture | LogRhythm, Azure|  <a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-| Phishing Forensics | Phishing Analysis, Incident Response | Various Forensic Tools | |
-| Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic SentinelOne, Microsoft Defender | |
-| VM Creation In Azure | Network Security Group | |  <a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a> |
-| Vulnerability Scan with Tenable | Vulnerability Management | Tenable | |
-| Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning: Authenticated vs. Unauthenticated</a> ||
+| Project | Skills | Tools | Link |
+| --- | --- | --- | --- |
+| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration. | WireGuard, PI Imager, SSH, and WinSCP. | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a></div> |
+| Building a SIEM | Log management, Security Architecture | LogRhythm, Azure | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a></div> |
+| Phishing Forensics | Phishing Analysis, Incident Response | Various Forensic Tools | <div align="center">-</div> |
+| Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic, SentinelOne, Microsoft Defender | <div align="center">-</div> |
+| VM Creation In Azure | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a></div> |
+| Vulnerability Scan with Tenable | Vulnerability Management | Tenable Nessus | <div align="center">-</div> |
+| Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
+
 <br />
 
 ## Education
