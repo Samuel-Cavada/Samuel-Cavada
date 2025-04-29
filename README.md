@@ -12,9 +12,19 @@ Yellow: #FFEB3B
 Bronze: #CD7F32
 Silver: #C0C0C0
 Gold: #FFD700
+
+
+![Cyber Defender](https://i.gifer.com/4M52.gif)
+
 -->
 
-# 🏄‍♂️ Samuel Cavada's Portfolio
+<p align="center">
+   
+![Cyber Defender](https://i.gifer.com/6o0.gif)
+
+</p>
+
+#  Samuel Cavada's Portfolio
 
 **`Digital Guardian (IT Specialist/Cybersecurity Professional/Tech Enthusiast)`**
 
