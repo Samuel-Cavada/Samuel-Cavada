@@ -25,7 +25,7 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
 2. [Security Tools](#security-tools)
 3. [Programming Languages](#programming-languages)
 4. [Projects](#projects)
-   - [Vulnerability Management Projects](#vulnerability-management-projects)
+   - [Vulnerability Management](#vulnerability-management-projects)
    - [Threat Hunting and Security Operations](#threat-hunting-and-security-operations-projects)
    - [Cyber Security](#cyber-security-projects)
    - [GRC (Governance, Risk, and Compliance)](#grc-governance-risk-and-compliance-projects)
