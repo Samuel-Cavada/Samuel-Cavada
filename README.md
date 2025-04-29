@@ -30,8 +30,8 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
    - [Cyber Security](#cyber-security-projects)
    - [GRC (Governance, Risk, and Compliance)](#grc-governance-risk-and-compliance-projects)
    - [System Administration](#system-administration-projects)
-   - [IT](#it)
-   - [Cloud](#cloud)
+   - [IT](#it-projects)
+   - [Cloud](#cloud-projects)
 6. [Education](#education)
 
 ## Certifications 
@@ -136,6 +136,10 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ## Projects
 
+
+<!-- Invisible Anchor -->
+<a id="vulnerability-management-projects"></a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Vulnerability%20Management%20Projects-4CAF50?style=for-the-badge&logo=shield&logoColor=white" alt="Vulnerability Management Projects" />
 </p>
@@ -152,6 +156,9 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Implementing a Full VM Program | --- | --- | --- |
 
 
+<!-- Invisible Anchor -->
+<a id="threat-hunting-and-security-operations-projects"></a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Threat%20Hunting%20and%20Security%20Operations%20Projects-E63946?style=for-the-badge&logo=security&logoColor=white" alt="Threat Hunting and Security Operations Projects" />
 </p>
@@ -161,6 +168,9 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 
+
+<!-- Invisible Anchor -->
+<a id="cyber-security-projects"></a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cyber Security Projects-457B9D?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security Projects" />
@@ -177,6 +187,9 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
+<!-- Invisible Anchor -->
+<a id="grc-governance-risk-and-compliance-projects"></a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/GRC Projects-F4A261?style=for-the-badge&logo=compliance&logoColor=white" alt="GRC Projects" />
 </p>
@@ -188,6 +201,8 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 
 
+<!-- Invisible Anchor -->
+<a id="system-administration-projects"></a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/System Admin Projects-FFD700?style=for-the-badge&logo=server&logoColor=black" alt="System Admin Projects" />
@@ -200,6 +215,9 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 
 
+<!-- Invisible Anchor -->
+<a id="IT-Projects"></a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/IT (Information Technology) Projects-6A0DAD?style=for-the-badge&logo=technology&logoColor=white" alt="IT (Information Technology) Projects" />
 </p>
@@ -211,6 +229,10 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 
+
+
+<!-- Invisible Anchor -->
+<a id="cloud-projects"></a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud Projects-2A9D8F?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Projects" />
