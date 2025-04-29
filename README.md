@@ -240,7 +240,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
-| VM Creation In Azure | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a></div> |
+| Virtual Machine Creation In Azure | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure Virtual Machine Build</a></div> |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
