@@ -166,27 +166,22 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
+| Windows Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
+| Linux Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Azure Network Security Group (NSG)| --- |
+| DISA STIG Scan: Windows | --- | --- | <div align="center"><a href="https://github.com/Samuel-Cavada/DISA-STIG-Windows-10-Scan">DISA STIG Windows 10 Scan</a></div> |
 | Manually Vulnerability Remediation on Windows | --- | --- | --- |
 | Manually Vulnerability Remediation on Linux | --- | --- | --- |
 | Programmatic Remediation in Windows | --- | --- | --- |
 | Programmatic Remediation in Linux | --- | --- | --- |
 | Implementing a Full VM Program | --- | --- | --- |
-| DISA STIG Scan: Windows | --- | --- | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main](https://github.com/Samuel-Cavada/DISA-STIG-Windows-10-Scan">DISA STIG Windows 10 Scan</a></div> | |
-| Linux Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Azure Network Security Group (NSG)| --- |
-| Windows Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 
 
 <img src="https://img.shields.io/badge/Threat Hunting and Security Operations Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Threat Hunting and Security Operations" />
 
-| Category | Project | Skills | Tools | Link |
-| --- | --- | --- | --- | --- |
-| --- | Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration. | WireGuard, PI Imager, SSH, and WinSCP. | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a></div> |
-| --- | Building a SIEM | Log management, Security Architecture | LogRhythm, Azure | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a></div> |
-| --- | Phishing Forensics | Phishing Analysis, Incident Response | Various Forensic Tools | <div align="center">-</div> |
-| --- | Threat Hunting and Malware Analysis | Threat Hunting, Malware Analysis | Elastic, SentinelOne, Microsoft Defender | <div align="center">-</div> |
-| Cloud Infrastructure | VM Creation In Azure | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build">Azure VM Build</a></div> |
-| Defensive Security | Vulnerability Scan with Tenable | Vulnerability Management | Tenable Nessus | <div align="center">-</div> |
-| Defensive Security | Windows Vulnerability Scanning: Authenticated vs. Unauthenticated | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
+| Project | Skills | Tools | Link |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
 
 
 <img src="https://img.shields.io/badge/Cybersecurity Projects-66DEFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
