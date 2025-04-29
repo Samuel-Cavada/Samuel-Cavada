@@ -18,13 +18,18 @@ Gold: #FFD700
 
 -->
 
-<p align="center">
-   
-![Cyber Defender](https://i.gifer.com/6o0.gif)
+# Samuel Cavada's Portfolio
 
+<p align="center">
+   <img src="https://i.gifer.com/5Mys.gif" alt="Cyber Defender">
 </p>
 
-#  Samuel Cavada's Portfolio
+
+<p align="center">
+   <img src="https://tenor.com/bwjqQ.gif" alt="Cyber Defender">
+</p>
+
+
 
 **`Digital Guardian (IT Specialist/Cybersecurity Professional/Tech Enthusiast)`**
 
