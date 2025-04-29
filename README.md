@@ -26,7 +26,7 @@ Gold: #FFD700
 
 
 <p align="center">
-   <img src="https://tenor.com/bwjqQ.gif" alt="Cyber Defender">
+   <img src="https://i.gifer.com/XwI4.gif" alt="Cyber Defender">
 </p>
 
 
