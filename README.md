@@ -111,60 +111,102 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ### Data Loss Prevention (DLP)
 <p align="left">
+<a href="https://github.com/Samuel-Cavada/BitLocker-Highlights" target="_blank"></a>
   <img src="https://img.shields.io/badge/BitLocker-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker" />
 </p>
 
 ### Endpoint Security
 <p align="left">
+ 
+<a href="https://github.com/Samuel-Cavada/SentinelOne-Highlights" target="_blank">
   <img src="https://img.shields.io/badge/Sentinel%20One-6A0DAD?style=for-the-badge&logo=sentinelone&logoColor=white" alt="SentinelOne" />
+ 
+<a href="https://github.com/Samuel-Cavada/Tanium-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Tanium-E63946?style=for-the-badge&logo=tanium&logoColor=white" alt="Tanium" />
+
+<a href="https://github.com/Samuel-Cavada/Microsoft-DHCP-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/Microsoft%20DHCP-F4A261?style=for-the-badge&logo=microsoft&logoColor=black" alt="Microsoft DHCP" />
+
+<a href="https://github.com/Samuel-Cavada/Microsoft-SCCM-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/Microsoft%20SCCM-2A9D8F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SCCM" />
 </p>
 
 ### Identity & Access Management (IAM)
 <p align="left">
+
+<a href="https://github.com/Samuel-Cavada/Active-Directory-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Active%20Directory-F1FAEE?style=for-the-badge&logo=windows&logoColor=black" alt="Active Directory" />
+
+<a href="https://github.com/Samuel-Cavada/Privileged-Identity-Manager-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/(Microsoft)%20Privileged%20Identity%20Manager-B8D432?style=for-the-badge&logo=microsoft&logoColor=black" alt="Privileged Identity Manager" />
+ 
+<a href="https://github.com/Samuel-Cavada/SailPoint-Highlights" target="_blank">
   <img src="https://img.shields.io/badge/SailPoint-457B9D?style=for-the-badge&logo=sailpoint&logoColor=white" alt="SailPoint" />
 </p>
 
 ### Network Security
 <p align="left">
+
+
   <img src="https://img.shields.io/badge/Cisco%20ISE-01BEEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ISE" />
+
+<a href="https://github.com/Samuel-Cavada/IP-Address-Manager-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/IP%20Address%20Manager-2C353C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="IP Address Manager" />
+
+
   <img src="https://img.shields.io/badge/Palo%20Alto-E63946?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
 </p>
 
 ### Operating Systems (OS)
 <p align="left">
+ 
   <img src="https://img.shields.io/badge/Microsoft%20DHCP-F4A261?style=for-the-badge&logo=windows&logoColor=black" alt="Microsoft DHCP" />
+
+  
   <img src="https://img.shields.io/badge/Microsoft%20SCCM-2A9D8F?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft SCCM" />
 </p>
 
 ### Security Information and Event Management (SIEM)
 <p align="left">
+
+ 
   <img src="https://img.shields.io/badge/Elastic%20SIEM-FFD700?style=for-the-badge&logo=elastic&logoColor=black" alt="Elastic SIEM" />
+
+<a href="https://github.com/Samuel-Cavada/Microsoft-Sentinel-Highlights" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel%20SIEM-C0C0C0?style=for-the-badge&logo=microsoft&logoColor=black" alt="Microsoft Sentinel" />
 </p>
 
 ### Vulnerability Management
 <p align="left">
+
+<a href="https://github.com/Samuel-Cavada/Tenable-Nessus-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Tenable%20Nessus-259194?style=for-the-badge&logo=nessus&logoColor=white" alt="Tenable Nessus" />
 </p>
 
 ### Other Tools
 <p align="left">
+
+<a href="https://github.com/Samuel-Cavada/Microsoft-365-Admin-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Microsoft%20365%20Admin-457B9D?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365 Admin" />
+
+  
   <img src="https://img.shields.io/badge/Oracle-1D3557?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+
+  
   <img src="https://img.shields.io/badge/Papercut-4CAF50?style=for-the-badge&logo=paperclip&logoColor=white" alt="Papercut" />
 </p>
 
 ## Programming Languages
 
 <p align="left">
+
+<a href="https://github.com/Samuel-Cavada/C++Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/C++-457B9D?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+<a href="https://github.com/Samuel-Cavada/Python-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<a href="https://github.com/Samuel-Cavada/PowerShell-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/PowerShell-6A0DAD?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
