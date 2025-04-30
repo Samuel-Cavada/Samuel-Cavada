@@ -95,7 +95,12 @@ List our your certifications and/or link to them. Also include the ones you plan
 # 
 -->
 
-##  Security Tools
+
+## Security Tools
+
+> _(Click on each tool to see my highlights)_
+
+
 
 ### Cloud Security
 <p align="left">
