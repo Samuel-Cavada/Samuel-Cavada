@@ -99,9 +99,15 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ### Cloud Security
 <p align="left">
-  <img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-457B9D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
-  <img src="https://img.shields.io/badge/Microsoft%20Intune-1D3557?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
+  <a href="https://github.com/Samuel-Cavada/Azure-Entra-Highlights" target="_blank">
+    <img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-457B9D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+  </a>
+   
+  <a href="https://github.com/Samuel-Cavada/Microsoft-Intune-Highlights" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Intune-1D3557?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
+  </a>
 </p>
+
 
 ### Data Loss Prevention (DLP)
 <p align="left">
