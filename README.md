@@ -29,7 +29,6 @@ Gold: #FFD700
 </p>
 
 
-
 <p align="center">
 Cavada’s CyberGuardians
  </p>
