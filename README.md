@@ -196,7 +196,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 <p align="left">
 
-<a href="https://github.com/Samuel-Cavada/C++Highlights" target="_blank"> 
+<a href="https://github.com/Samuel-Cavada/C--Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/C++-457B9D?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
 <a href="https://github.com/Samuel-Cavada/Python-Highlights" target="_blank"> 
