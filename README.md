@@ -111,7 +111,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 ### Data Loss Prevention (DLP)
 <p align="left">
-<a href="https://github.com/Samuel-Cavada/BitLocker-Highlights" target="_blank"></a>
+<a href="https://github.com/Samuel-Cavada/BitLocker-Highlights" target="_blank">
   <img src="https://img.shields.io/badge/BitLocker-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker" />
 </p>
 
