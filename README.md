@@ -17,14 +17,14 @@ Gold: #FFD700
 ![Cyber Defender](https://i.gifer.com/4M52.gif)
 
 -->
-
 <p align="center">
-  <h1>Samuel Cavada's Portfolio</h1>
+  <img src="https://github.com/user-attachments/assets/83c8f0af-14a2-4f0e-869d-56778c5e13a1" alt="Cyber Defender" width="300">
 </p>
 
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83c8f0af-14a2-4f0e-869d-56778c5e13a1" alt="Cyber Defender" width="300">
+  <h1>Samuel Cavada's Portfolio</h1>
 </p>
 
 <p align="center">
