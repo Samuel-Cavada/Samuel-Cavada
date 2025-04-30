@@ -33,10 +33,6 @@ Cavada’s CyberGuardians
  </p>
 
  <p align="center">
-Pixel Defenders of Cybersecurity & IT
-</p>
-
- <p align="center">
   "Defending the digital world, one byte at a time."
 </p>
 
