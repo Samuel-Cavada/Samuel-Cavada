@@ -23,9 +23,11 @@ Gold: #FFD700
 <img src="https://github.com/user-attachments/assets/44ca8e7f-5fbd-4066-9881-39567c42d54f" alt="Mascot 3" width="100">
 <img src="https://github.com/user-attachments/assets/5a19025c-9f54-4598-b44c-4a9301e13e07" alt="Mascot 4" width="100">
 <img src="https://github.com/user-attachments/assets/1f20a2f3-ed45-43d6-b926-87c7f38d84a7" alt="Mascot 5" width="100">
+<img src="https://github.com/user-attachments/assets/ac4a2131-24b7-4c0b-b6da-c2987a099954" alt="Mascot 6" width="100">
 <img src="https://github.com/user-attachments/assets/4991777b-28d3-4955-90fe-a9251c11d4e3" alt="Mascot 6" width="100">
 <img src="https://github.com/user-attachments/assets/bad305e4-10a8-40c8-bd90-617bd715f2dd" alt="Mascot 7" width="100">
 </p>
+
 
 
 <p align="center">
