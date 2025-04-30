@@ -21,13 +21,9 @@ Gold: #FFD700
 # Samuel Cavada's Portfolio
 
 <p align="center">
-   <img src="https://i.gifer.com/5Mys.gif" alt="Cyber Defender">
+  <img src="https://github.com/user-attachments/assets/a55fda2a-6ed8-4848-bd67-5edcda0c8997" alt="Cyber Defender" width="200">
 </p>
 
-
-<p align="center">
-   <img src="https://i.gifer.com/XwI4.gif" alt="Cyber Defender">
-</p>
 
 
 
