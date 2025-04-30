@@ -27,10 +27,13 @@ Gold: #FFD700
   <img src="https://github.com/user-attachments/assets/83c8f0af-14a2-4f0e-869d-56778c5e13a1" alt="Cyber Defender" width="300">
 </p>
 
-
+<p align="center">
+  
 **`Digital Guardian (IT Specialist/Cybersecurity Professional/Tech Enthusiast)`**
 
 Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my skills in **Vulnerability Management, Incident Response, and Access Management**, allowing me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+</p>
+
 
 # Table of Contents
 1. [Certifications](#certifications)
