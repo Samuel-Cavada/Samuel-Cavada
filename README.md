@@ -24,7 +24,7 @@ Gold: #FFD700
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83c8f0af-14a2-4f0e-869d-56778c5e13a1" alt="Cyber Defender" width="200">
+  <img src="https://github.com/user-attachments/assets/83c8f0af-14a2-4f0e-869d-56778c5e13a1" alt="Cyber Defender" width="300">
 </p>
 
 
