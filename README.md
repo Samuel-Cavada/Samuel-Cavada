@@ -147,29 +147,25 @@ List our your certifications and/or link to them. Also include the ones you plan
 ### Network Security
 <p align="left">
 
-
+<a href="https://github.com/Samuel-Cavada/Cisco-ISE-Highlight" target="_blank">  
   <img src="https://img.shields.io/badge/Cisco%20ISE-01BEEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ISE" />
 
 <a href="https://github.com/Samuel-Cavada/IP-Address-Manager-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/IP%20Address%20Manager-2C353C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="IP Address Manager" />
 
-
+<a href="https://github.com/Samuel-Cavada/Palo-Alto-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/Palo%20Alto-E63946?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
 </p>
 
 ### Operating Systems (OS)
 <p align="left">
- 
-  <img src="https://img.shields.io/badge/Microsoft%20DHCP-F4A261?style=for-the-badge&logo=windows&logoColor=black" alt="Microsoft DHCP" />
 
-  
-  <img src="https://img.shields.io/badge/Microsoft%20SCCM-2A9D8F?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft SCCM" />
 </p>
 
 ### Security Information and Event Management (SIEM)
 <p align="left">
 
- 
+<a href="https://github.com/Samuel-Cavada/Elastic-SIEM-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/Elastic%20SIEM-FFD700?style=for-the-badge&logo=elastic&logoColor=black" alt="Elastic SIEM" />
 
 <a href="https://github.com/Samuel-Cavada/Microsoft-Sentinel-Highlights" target="_blank">
@@ -189,10 +185,10 @@ List our your certifications and/or link to them. Also include the ones you plan
 <a href="https://github.com/Samuel-Cavada/Microsoft-365-Admin-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Microsoft%20365%20Admin-457B9D?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365 Admin" />
 
-  
+  <a href="https://github.com/Samuel-Cavada/Oracle-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/Oracle-1D3557?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
-  
+  <a href="https://github.com/Samuel-Cavada/PaperCut-Highlight" target="_blank">  
   <img src="https://img.shields.io/badge/Papercut-4CAF50?style=for-the-badge&logo=paperclip&logoColor=white" alt="Papercut" />
 </p>
 
