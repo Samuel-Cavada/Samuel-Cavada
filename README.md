@@ -305,7 +305,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
-| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration. | WireGuard, PI Imager, SSH, and WinSCP. | <div align="center"><a href="https://github.com/iMentorYT/SIEM/tree/main">SIEM</a></div> |
+| Building a Pi-VPN Server | Network Security, Firewall Management, Identity and Access Management, Operating System Management, and Network Configuration. | WireGuard, PI Imager, SSH, and WinSCP. | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
