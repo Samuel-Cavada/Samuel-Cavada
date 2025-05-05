@@ -230,7 +230,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
 | Windows Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
-| Linux Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Azure Network Security Group (NSG)| --- |
+| Linux Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Azure Network Security Group (NSG)| <div align="center"><a href="https://github.com/Samuel-Cavada/Linux-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Linux Vulnerability Scanning</a></div>  |
 | DISA STIG Scan: Windows | --- | --- | <div align="center"><a href="https://github.com/Samuel-Cavada/DISA-STIG-Windows-10-Scan">DISA STIG Windows 10 Scan</a></div> |
 | Manually Vulnerability Remediation on Windows | --- | --- | --- |
 | Manually Vulnerability Remediation on Linux | --- | --- | --- |
