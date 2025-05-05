@@ -182,6 +182,8 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 <a href="https://github.com/Samuel-Cavada/Tenable-Nessus-Highlights" target="_blank"> 
   <img src="https://img.shields.io/badge/Tenable%20Nessus-259194?style=for-the-badge&logo=nessus&logoColor=white" alt="Tenable Nessus" />
+ <a href="https://github.com/Samuel-Cavada/Tanium-Highlights" target="_blank"> 
+  <img src="https://img.shields.io/badge/Tanium-E63946?style=for-the-badge&logo=tanium&logoColor=white" alt="Tanium" />
 </p>
 
 ### Other Tools
