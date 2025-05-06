@@ -197,6 +197,10 @@ List our your certifications and/or link to them. Also include the ones you plan
 
   <a href="https://github.com/Samuel-Cavada/PaperCut-Highlight" target="_blank">  
   <img src="https://img.shields.io/badge/Papercut-4CAF50?style=for-the-badge&logo=paperclip&logoColor=white" alt="Papercut" />
+
+<a href="https://github.com/Samuel-Cavada/KnowB4-Highlights" target="_blank">  
+  <img src="https://img.shields.io/badge/KnowB4-F4A261?style=for-the-badge&logo=microsoft&logoColor=black" alt="KnowBe4" />
+   
 </p>
 
 ## Programming Languages
@@ -212,8 +216,6 @@ List our your certifications and/or link to them. Also include the ones you plan
 <a href="https://github.com/Samuel-Cavada/PowerShell-Highlights" target="_blank">  
   <img src="https://img.shields.io/badge/PowerShell-6A0DAD?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 
-<a href="https://github.com/Samuel-Cavada/KnowB4-Highlights" target="_blank">  
-  <img src="https://img.shields.io/badge/KnowB4-F4A261?style=for-the-badge&logo=microsoft&logoColor=black" alt="KnowB4" />
  
 </p>
 
