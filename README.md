@@ -327,8 +327,8 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
-| Virtual Machine Creation In Azure (Windows) | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Windows">Azure Virtual Machine Build (Windows)</a></div> |
-| Virtual Machine Creation In Azure (Linux) | Network Security Group | Azure Portal, Azure NSG | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Linux">Azure Virtual Machine Build (Linux)</a></div> |
+| Virtual Machine Creation In Azure (Windows) | Deploying and configuring Azure Virtual Machines, Implementing data encryption with platform-managed keys, Setting up network security groups and firewall rules, Establishing secure remote access using RDP, Building cloud environments for cybersecurity practice | Azure Portal, Azure Key Vault, Azure Network Security Groups, Remote Desktop Protocol (RDP) | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Windows">Azure Virtual Machine Build (Windows)</a></div> |
+| Virtual Machine Creation In Azure (Linux) | Deploying and configuring Azure Virtual Machines, Implementing data encryption with platform-managed keys, Setting up network security groups and firewall rules, Establishing secure remote access using RDP, Building cloud environments for cybersecurity practice | Azure Portal, Azure Key Vault, Azure Network Security Groups, Remote Desktop Protocol (RDP) | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Linux">Azure Virtual Machine Build (Linux)</a></div> |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 
