@@ -235,12 +235,12 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 | Windows Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Windows Firewall, Azure Network Security Group (NSG) | <div align="center"><a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Windows Vulnerability Scanning</a></div> |
 | Linux Vulnerability Scan | Vulnerability Management, Network Security, Firewall Configuration, Credentialed Scanning Techniques | Tenable Nessus, Azure Network Security Group (NSG)| <div align="center"><a href="https://github.com/Samuel-Cavada/Linux-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">Linux Vulnerability Scanning</a></div>  |
-| (Not Started) DISA STIG Scan: Windows  | --- | --- | <div align="center"><a href="https://github.com/Samuel-Cavada/DISA-STIG-Windows-10-Scan">DISA STIG Windows 10 Scan</a></div> |
-| (Not Started) Manually Vulnerability Remediation on Windows   | --- | --- | --- |
-| (Not Started) Manually Vulnerability Remediation on Linux   | --- | --- | --- |
-| (Not Started) Programmatic Remediation in Windows   | --- | --- | --- |
-| (Not Started) Programmatic Remediation in Linux   | --- | --- | --- |
-| (Not Started) Implementing a Full VM Program   | --- | --- | --- |
+| (Not Started) DISA STIG Scan: Windows  | Security Hardening, Compliance Benchmarking, STIG Validation, Risk Assessment | Tenable Nessus, DISA STIG Viewer, Windows 10 | <div align="center"><a href="https://github.com/Samuel-Cavada/DISA-STIG-Windows-10-Scan">DISA STIG Windows 10 Scan</a></div> |
+| (Not Started) Manually Vulnerability Remediation on Windows   | Patch Management, Threat Mitigation, Endpoint Security, Vulnerability Triage | Windows Update Services, PowerShell, CVE Research Tools (e.g., NVD, MITRE CVE) | --- |
+| (Not Started) Manually Vulnerability Remediation on Linux   | Patch Management, Threat Mitigation, Endpoint Security, Vulnerability Triage | 	apt/yum package managers, systemctl, auditctl, CVE Research Tools | --- |
+| (Not Started) Programmatic Remediation in Windows   | Automation Scripting, Endpoint Security, Patch Orchestration, Policy Enforcement | PowerShell, Group Policy, Chocolatey, Task Scheduler | --- |
+| (Not Started) Programmatic Remediation in Linux   | Automation Scripting, System Hardening, Configuration Management | Bash, Ansible, cron, apt/yum, systemctl | --- |
+| (Not Started) Implementing a Full VM Program   | End-to-End Vulnerability Lifecycle Management, Asset Discovery, Threat Prioritization, Patch & Remediation Strategy | Tenable.io, Azure/AWS VM Environments, Excel/Power BI (Reporting), ServiceNow (optional for workflow) | --- |
 
 
 <!-- Invisible Anchor -->
