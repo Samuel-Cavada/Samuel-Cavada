@@ -60,7 +60,7 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
    - [Cyber Security](#cyber-security-projects)
    - [GRC (Governance, Risk, and Compliance)](#grc-governance-risk-and-compliance-projects)
    - [System Administration](#system-administration-projects)
-   - [IT](#it-projects)
+   - [IT](#IT-Projects)
    - [Cloud](#cloud-projects)
 6. [Education](#education)
 
@@ -102,25 +102,25 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 
 
-### Cloud Security
+- ### Cloud Security
 <p align="left">
-  <a href="https://github.com/Samuel-Cavada/Azure-Entra-Highlights" target="_blank">
-    <img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-457B9D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
-  </a>
+   <a href="https://github.com/Samuel-Cavada/Azure-Entra-Highlights" target="_blank">
+     <img src="https://img.shields.io/badge/(Microsoft)%20Azure%20Entra-457B9D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Entra" />
+   </a>
    
-  <a href="https://github.com/Samuel-Cavada/Microsoft-Intune-Highlights" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Intune-1D3557?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
-  </a>
-</p>
+   <a href="https://github.com/Samuel-Cavada/Microsoft-Intune-Highlights" target="_blank">
+     <img src="https://img.shields.io/badge/Microsoft%20Intune-1D3557?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
+   </a>
+ </p>
 
 
-### Data Loss Prevention (DLP)
+- ### Data Loss Prevention (DLP)
 <p align="left">
 <a href="https://github.com/Samuel-Cavada/BitLocker-Highlights" target="_blank">
   <img src="https://img.shields.io/badge/BitLocker-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker" />
 </p>
 
-### Endpoint Security
+- ### Endpoint Security
 <p align="left">
  
 <a href="https://github.com/Samuel-Cavada/SentinelOne-Highlights" target="_blank">
@@ -136,7 +136,7 @@ List our your certifications and/or link to them. Also include the ones you plan
   <img src="https://img.shields.io/badge/Microsoft%20SCCM-2A9D8F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SCCM" />
 </p>
 
-### Identity & Access Management (IAM)
+- ### Identity & Access Management (IAM)
 <p align="left">
 
 <a href="https://github.com/Samuel-Cavada/Active-Directory-Highlights" target="_blank"> 
@@ -149,7 +149,7 @@ List our your certifications and/or link to them. Also include the ones you plan
   <img src="https://img.shields.io/badge/SailPoint-457B9D?style=for-the-badge&logo=sailpoint&logoColor=white" alt="SailPoint" />
 </p>
 
-### Network Security
+- ### Network Security
 <p align="left">
 
 <a href="https://github.com/Samuel-Cavada/Cisco-ISE-Highlight" target="_blank">  
@@ -167,7 +167,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 </p>
 
-### Security Information and Event Management (SIEM)
+- ### Security Information and Event Management (SIEM)
 <p align="left">
 
 <a href="https://github.com/Samuel-Cavada/Elastic-SIEM-Highlights" target="_blank">  
@@ -177,7 +177,7 @@ List our your certifications and/or link to them. Also include the ones you plan
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel%20SIEM-C0C0C0?style=for-the-badge&logo=microsoft&logoColor=black" alt="Microsoft Sentinel" />
 </p>
 
-### Vulnerability Management
+- ### Vulnerability Management
 <p align="left">
 
 <a href="https://github.com/Samuel-Cavada/Tenable-Nessus-Highlights" target="_blank"> 
@@ -186,7 +186,7 @@ List our your certifications and/or link to them. Also include the ones you plan
   <img src="https://img.shields.io/badge/Tanium-E63946?style=for-the-badge&logo=tanium&logoColor=white" alt="Tanium" />
 </p>
 
-### Other Tools
+- ### Other Tools
 <p align="left">
 
 <a href="https://github.com/Samuel-Cavada/Microsoft-365-Admin-Highlights" target="_blank"> 
