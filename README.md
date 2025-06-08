@@ -62,7 +62,10 @@ Hi, I'm Samuel, and this is my Cyber Security Portfolio. I am currently seeking 
    - [System Administration](#system-administration-projects)
    - [IT](#IT-Projects)
    - [Cloud](#cloud-projects)
-6. [Education](#education)
+5. [Education](#education)
+6. [Programs](#programs)  
+7. [Technical Skills](#technical-skills)  
+8. [Soft Skills](#soft-skills)
 
 ## Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
@@ -381,9 +384,47 @@ List our your certifications and/or link to them. Also include the ones you plan
 **Western Governors University**  
 *Expected Graduation: Summer 2027*
 
-## Soft Skills
 
-#### Adaptability, Analytical Thinking, Attention to Detail, Collaboration, Communication, Customer Service, Leadership, Problem-Solving, Strategic Thinking, Time Management
+---
+<img src="https://img.shields.io/badge/Professional%20Education%20Certificate-0078D4?style=for-the-badge&logo=govdot&logoColor=white" alt="Professional Education Certificate" />
+
+### 🎖️ Certificate in Military Leadership  
+**Arizona State University – Professional Military Education**  
+*Completed: July 2024*  
+- Also known as **Airman Leadership School (ALS)**  
+- Designed to prepare junior enlisted members for roles as **supervisors and managers**  
+- Focused on **leadership development**, **team dynamics**, **communication**, and **ethical decision-making**
+
+---
+## Programs
+
+### 🛡️ The Cyber Range
+
+A hands-on cybersecurity community offering real SOC experience, live breach simulations, and access to enterprise tools like **Tenable**, **Microsoft Sentinel**, **Defender for Endpoint**, and **Azure** — all designed to build resume-ready skills through guided, real-world labs.
+
+- Conducted **authenticated and unauthenticated vulnerability scans** on both Windows and Linux Azure virtual machines using **Tenable.io**, demonstrating internal threat visibility with credentialed access.
+- Configured **Windows Defender Firewall**, **UFW (Linux)**, and **Azure Network Security Groups (NSGs)** to simulate enterprise environments and allow secure external scanning for vulnerability assessment.
+- Built and deployed **secure virtual machines in Microsoft Azure**, using **Azure Key Vault** for data encryption and configuring **RDP access** with strict network access controls.
+- Analyzed **Tenable vulnerability scan reports** to assess severity, prioritize remediation, and strengthen system security posture.
+- Actively contributed to the **cybersecurity learning community**, collaborating and sharing knowledge with peers in a SOC-style environment.
+
+
+---
+
+##  Technical Skills
+
+**System & Network Troubleshooting** • **Azure Virtual Machines** • **Microsoft Entra ID (Azure AD)**  
+**Log Analytics & KQL** • **Tenable.io Vulnerability Scanning** • **SentinelOne Endpoint Protection**  
+**Windows Server & Client Administration** • **Active Directory & Group Policy**  
+**PowerShell Scripting** • **BitLocker Encryption**
+
+
+
+##  Soft Skills
+
+**Adaptability** • **Analytical Thinking** • **Attention to Detail**  
+**Collaboration** • **Communication** • **Customer Service**  
+**Leadership** • **Problem-Solving** • **Strategic Thinking** • **Time Management**
 
 
 
