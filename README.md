@@ -256,8 +256,24 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| (_Not started yet_) Attack Maps and Log Visualization | --- | --- | --- |
+| (_Not started yet_) Entra ID Authentication Success / Failures | --- | --- | --- |
+| (_Not started yet_) Logon Failures Against Compute Resources | --- | --- | --- |
+| (_Not started yet_) Malicious Traffic Entering the Network | --- | --- | --- |
+| (_Not started yet_) VM Isolation and Investigation | --- | --- | --- |
+| (_Not started yet_) Performing Random Activities to Create Logs | --- | --- | --- |
+| (_Not started yet_) Remote Code Execution Detection | --- | --- | --- |
+| (_Not started yet_) Devices Exposed to the Internet | --- | --- | --- |
+| (_Not started yet_) Sudden Network Slowdowns | --- | --- | --- |
+| (_Not started yet_) Suspected Data Exfiltration Employee | --- | --- | --- |
+| (_Not started yet_) New Zero-Day Announced on News | --- | --- | --- |
+| (_Not started yet_) Virtual Machine Brute Force Detection | --- | --- | --- |
+| (_Not started yet_) PowerShell Suspicious Web Request | --- | --- | --- |
+| (_Not started yet_) Potential Impossible Travel | --- | --- | --- |
+| (_Not started yet_) Threat Hunting Final Project | --- | --- | --- |
+| (_Not started yet_) Detecting WannaCry Ransomware with YARA & Tenable | --- | --- | --- |
+| (_Not started yet_) Simulated Script Execution Attack & IR Lab | --- | --- | --- |
+| (_Not started yet_) Microsoft Defender for Endpoint Overview and Logs | --- | --- | --- |
 
 
 <!-- Invisible Anchor -->
@@ -297,8 +313,8 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| Resource Creation / Deletions | --- | --- | --- |
+| Onboarding a VM to MDE | --- | --- | --- |
 | --- | --- | --- | --- |
 
 
