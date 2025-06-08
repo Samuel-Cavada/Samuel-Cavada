@@ -398,7 +398,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 ---
 ## Programs
 
-### 🛡️ The Cyber Range
+### [🛡️ The Cyber Range](https://www.skool.com/cyber-range/about?ref=658981a4edfb4aa3a3d4b220d1d410ee)
 
 A hands-on cybersecurity community offering real SOC experience, live breach simulations, and access to enterprise tools like **Tenable**, **Microsoft Sentinel**, **Defender for Endpoint**, and **Azure** — all designed to build resume-ready skills through guided, real-world labs.
 
