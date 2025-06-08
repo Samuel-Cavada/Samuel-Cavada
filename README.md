@@ -402,11 +402,12 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 A hands-on cybersecurity community offering real SOC experience, live breach simulations, and access to enterprise tools like **Tenable**, **Microsoft Sentinel**, **Defender for Endpoint**, and **Azure** — all designed to build resume-ready skills through guided, real-world labs.
 
-- Conducted **authenticated and unauthenticated vulnerability scans** on both Windows and Linux Azure virtual machines using **Tenable.io**, demonstrating internal threat visibility with credentialed access.
-- Configured **Windows Defender Firewall**, **UFW (Linux)**, and **Azure Network Security Groups (NSGs)** to simulate enterprise environments and allow secure external scanning for vulnerability assessment.
-- Built and deployed **secure virtual machines in Microsoft Azure**, using **Azure Key Vault** for data encryption and configuring **RDP access** with strict network access controls.
-- Analyzed **Tenable vulnerability scan reports** to assess severity, prioritize remediation, and strengthen system security posture.
-- Actively contributed to the **cybersecurity learning community**, collaborating and sharing knowledge with peers in a SOC-style environment.
+- Conducting vulnerability assessments using **Tenable.io**
+- Analyzing and triaging alerts in **Microsoft Sentinel (SIEM)**
+- Investigating threats with **Microsoft Defender for Endpoint (EDR)**
+- Building and securing virtual machines in **Microsoft Azure**
+- Responding to **live security incidents and breach simulations**
+- Gaining **real-world, resume-ready cybersecurity experience**
 
 
 ---
