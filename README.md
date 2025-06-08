@@ -329,7 +329,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --- | --- | --- | --- |
 | Virtual Machine Creation In Azure (Windows) | Deploying and configuring Azure Virtual Machines, Implementing data encryption with platform-managed keys, Setting up network security groups and firewall rules, Establishing secure remote access using RDP, Building cloud environments for cybersecurity practice | Azure Portal, Azure Key Vault, Azure Network Security Groups, Remote Desktop Protocol (RDP) | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Windows">Azure Virtual Machine Build (Windows)</a></div> |
 | Virtual Machine Creation In Azure (Linux) | Deploying and configuring Azure Virtual Machines, Implementing data encryption with platform-managed keys, Setting up network security groups and firewall rules, Establishing secure remote access using RDP, Building cloud environments for cybersecurity practice | Azure Portal, Azure Key Vault, Azure Network Security Groups, Remote Desktop Protocol (RDP) | <div align="center"><a href="https://github.com/Samuel-Cavada/Azure-VM-Build-Linux">Azure Virtual Machine Build (Linux)</a></div> |
-| Azure Log Analytics with KQL | --- | --- | --- |
+| Azure Log Analytics with KQL | Navigating Azure Log Analytics Workspaces, Changing query mode to KQL, Writing and running KQL queries, Analyzing logs for operational or security insights | Azure Portal, Log Analytics, KQL (Kusto Query Language) | Querying Logs in Azure Log Analytics Workspace |
 | --- | --- | --- | --- |
 
 
