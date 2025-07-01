@@ -315,7 +315,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Project | Skills | Tools | Link |
 | --- | --- | --- | --- |
 | Resource Creation / Deletions | --- | --- | --- |
-| Onboarding a VM to MDE | --- | --- | --- |
+| Onboarding a VM to MDE | Endpoint security, threat investigation, VM onboarding, EDR operations | Microsoft Defender for Endpoint, Azure Portal, Windows 10 | [GitHub ↗](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE)
 
 
 <!-- Invisible Anchor -->
