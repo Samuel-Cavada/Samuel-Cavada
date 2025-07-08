@@ -266,7 +266,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | (_Not started yet_) VM Isolation and Investigation | --- | --- | --- |
 | (_Not started yet_) Performing Random Activities to Create Logs | --- | --- | --- |
 | (_Not started yet_) Remote Code Execution Detection | --- | --- | --- |
-| (_Not started yet_) Devices Exposed to the Internet | --- | --- | --- |
+| (_Not started yet_) Devices Exposed to the Internet | Threat Hunting, KQL, NSG Hardening | Microsoft Defender for Endpoint, Azure, KQL | [View Project](https://github.com/Samuel-Cavada/Scenario-1-Devices-Exposed-to-the-Internet) | |
 | (_Not started yet_) Sudden Network Slowdowns | --- | --- | --- |
 | (_Not started yet_) Suspected Data Exfiltration Employee | --- | --- | --- |
 | (_Not started yet_) New Zero-Day Announced on News | --- | --- | --- |
