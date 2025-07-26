@@ -268,10 +268,10 @@ List our your certifications and/or link to them. Also include the ones you plan
 | (_Not started yet_) Remote Code Execution Detection | --- | --- | --- |
 | Devices Exposed to the Internet | Threat Hunting, KQL, NSG Hardening | Microsoft Defender for Endpoint, Azure, KQL | [Devices Exposed to the Internet](https://github.com/Samuel-Cavada/Scenario-1-Devices-Exposed-to-the-Internet) | |
 | Sudden Network Slowdowns | Threat Hunting, PowerShell Analysis, KQL | Microsoft Defender for Endpoint, Azure, KQL | [Sudden Network Slowdowns](https://github.com/Samuel-Cavada/Scenario-2-Sudden-Network-Slowdowns) |
-| (_Not started yet_) Suspected Data Exfiltration Employee | --- | --- | --- |
+| Suspected Data Exfiltration by Employee on PIP | Threat hunting, anomaly detection, insider threat analysis, MITRE ATT&CK mapping | Microsoft Defender for Endpoint, PowerShell, Log Analytics | [Suspected Data Exfiltration by Employee on PIP](https://github.com/Samuel-Cavada/Scenario-2-PowerShell-Suspicious-Web-Request) |
 | (_Not started yet_) New Zero-Day Announced on News | --- | --- | --- |
-| (_Not started yet_) Virtual Machine Brute Force Detection | --- | --- | --- |
-| (_Not started yet_) PowerShell Suspicious Web Request | --- | --- | --- |
+| Virtual Machine Brute Force Detection | Alert rule creation, brute-force detection, NIST IR lifecycle, NSG policy | Microsoft Sentinel, MDE, Log Analytics, NSGs | [Virtual Machine Brute Force Detection](https://github.com/Samuel-Cavada/Scenario-1-Virtual-Machine-Brute-Force-Detection) |
+| PowerShell Suspicious Web Request | Alert rule creation, telemetry analysis, NIST IR lifecycle | Microsoft Sentinel, MDE, PowerShell, KQL | [PowerShell Suspicious Web Request](https://github.com/Samuel-Cavada/Scenario-2-PowerShell-Suspicious-Web-Request) |
 | (_Not started yet_) Potential Impossible Travel | --- | --- | --- |
 | (_Not started yet_) Threat Hunting Final Project | --- | --- | --- |
 | (_Not started yet_) Detecting WannaCry Ransomware with YARA & Tenable | --- | --- | --- |
